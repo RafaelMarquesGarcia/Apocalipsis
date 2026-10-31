@@ -1,1 +1,7 @@
-[readme.txt](https://github.com/user-attachments/files/34218903/readme.txt)
+-------APOCALIPSIS-------
+-Manual hecho como proyecto íntegramente en Claude Code 5.5.
+-Está dividido en 16 ámbitos de conocimiento, 6 fases de desarrollo y 3 niveles de calidad de recursos (recursos avanzados, recuperación de escombros y primitivo).
+-Contiene un buscador de fichas de elementos dentro de cada ámbito.
+-También contiene algunas herramientas interactivas como calculadoras de cada ámbito.
+-Está adaptado para un grupo de en torno a 10 personas en el Sureste español (Alicante, Murcia, Almería y Albacete).
+-Contiene anexos específicos para cada tipo de desastre.
